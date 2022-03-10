@@ -4,6 +4,7 @@
 </head>
 <body>
 <form>
+<table align="center">
 <label >1st number</label>
 <input type="text" id="num1">
 <br>
@@ -25,6 +26,7 @@
 <input type="button" value="add">
 
 <input type="reset">
+</table>
 </form>
 
 </body>
