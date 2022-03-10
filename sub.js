@@ -3,5 +3,5 @@ var b = document.getElementById("num2").value
 var result
 result =a-b
 
-document.getElementById("result").value = result
+document.getElementById("num2").value = result
 
